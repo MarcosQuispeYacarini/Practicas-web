@@ -1,0 +1,66 @@
+@import url(https://fonts.google.com/specimen/Montserrat);
+* {
+  padding: 10px;
+}
+body {
+  background-color: steelblue;
+}
+.contenedor {
+  background-color: white;
+}
+.parrafo1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.parrafo2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.parrafo3 {
+  font-style: italic;
+}
+.parrafo4 {
+  font-style: oblique;
+}
+.parrafo5 {
+  font-style: normal;
+}
+.parrafo6 {
+  font-weight: bold;
+}
+.parrafo7 {
+  font-weight: bolder;
+}
+.parrafo8 {
+  font-variant: small-caps;
+}
+.parrafo9 {
+  font-variant: normal;
+}
+.parrafo10 {
+  font-size: 30px;
+}
+
+@font-face {
+  font-family: "IndieFlower-Regular";
+  src: url(/fonts/IndieFlower-Regular.ttf);
+}
+@font-face {
+  font-family: "Girassol-Regular";
+  src: url(/fonts/Girassol-Regular.ttf);
+}
+@font-face {
+  font-family: "Prequel-Shadow";
+  src: url(/fonts/PrequelDemo-ShadowItalic.otf);
+}
+.parrafo11 {
+  font-family: "IndieFlower-Regular";
+}
+.parrafo12 {
+  font-family: "Girassol-Regular";
+}
+.parrafo13 {
+  font-family: "Montserrat", cursive;
+}
+.parrafo14 {
+  font-family: "prequel-shadow";
+  font-size: 30px;
+}

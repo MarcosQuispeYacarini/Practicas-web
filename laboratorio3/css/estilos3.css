@@ -1,0 +1,105 @@
+body {
+  background-color: cornflowerblue;
+}
+.contenedor {
+  background-color: aqua;
+}
+header {
+  background-color: blueviolet;
+}
+nav {
+  background-color: brown;
+}
+section {
+  background-color: white;
+}
+footer {
+  background-color: chocolate;
+}
+
+.borde1 {
+  border-style: dotted;
+}
+.borde2 {
+  border-style: dashed;
+}
+.borde3 {
+  border-style: solid;
+}
+.borde4 {
+  border-style: double;
+}
+.borde5 {
+  border-style: groove;
+}
+.borde6 {
+  border-style: ridge;
+}
+.borde7 {
+  border-style: inset;
+}
+.borde8 {
+  border-style: outset;
+}
+.borde9 {
+  border-style: none;
+}
+.borde10 {
+  border-style: hidden;
+}
+/* Agregamos un borde de tipo combinado 
+cuando realizamos bordes combiados la sintaxis seria la siguiente:
+ border-style: (Arriba y Abajo) (Izquierda y Derecha);
+  border-style: (Arriba) (Izquierda y Derecha) (Abajo);
+   border-style: (Arriba) (Derecha) (Abajo) (Izquierda);
+*/
+.borde11 {
+  border-style: dotted dashed solid double;
+}
+/* Aplicamos bordes cambiando el ancho del borde */
+.borde12 {
+  border-style: dotted;
+  border-width: 10px;
+}
+.borde13 {
+  border-style: dashed;
+  border-width: medium;
+}
+.borde14 {
+  border-style: solid;
+  border-width: 10px 15px 4px 7px;
+}
+.borde15 {
+  border-style: dashed;
+  border-color: yellowgreen;
+}
+.borde16 {
+  border-style: dashed;
+  border-color: yellowgreen goldenrod peru red;
+}
+/* Aplicamos borde en un lugar especefico
+top=Superior
+bottom=ferior */
+.borde17 {
+  border-top-style: dashed;
+}
+.borde18 {
+  border-bottom-style: dotted;
+}
+.borde19 {
+  border-left-style: solid;
+}
+.borde20 {
+  border-right-style: double;
+}
+
+.borde21 {
+  border-style: solid;
+  border-width: medium;
+  border-radius: 5px;
+}
+.borde22 {
+  border-style: solid;
+  border-width: 20px;
+  border-radius: 15px;
+}

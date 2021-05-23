@@ -1,0 +1,21 @@
+#menuprincipal {
+  color: darkorange;
+  font-size: larger;
+  font-weight: bolder;
+}
+#titulo1 {
+  color: darkslategray;
+  font-weight: bolder;
+}
+#titulo2 {
+  color: dodgerblue;
+  font-weight: bolder;
+}
+#parrafo1 {
+  color: gold;
+  font-style: italic;
+}
+#parrafo2 {
+  color: lightcoral;
+  font-weight: bolder;
+}

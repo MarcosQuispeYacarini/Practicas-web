@@ -1,0 +1,45 @@
+body {
+  background-color: cornflowerblue;
+}
+.contenedor {
+  background-color: white;
+}
+table {
+  width: 100%;
+  border: 4px solid darkgoldenrod;
+}
+thead,
+th,
+tbody td {
+  border: 4px solid navy;
+}
+th {
+  height: 50px;
+  text-align: center;
+  vertical-align: top;
+  background-color: gold;
+  color: white;
+}
+table tbody tr:hover {
+  background-color: black;
+  color: gainsboro;
+}
+.Tabla1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid gainsboro;
+}
+.Tabla1 td,
+.Tabla th {
+  border: 1px solid gainsboro;
+}
+.Tabla1 th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: indigo;
+  color: white;
+  text-align: center;
+  vertical-align: top;
+}

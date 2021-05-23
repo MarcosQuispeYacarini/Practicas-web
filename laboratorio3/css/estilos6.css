@@ -1,0 +1,28 @@
+body {
+  background-color: greenyellow;
+}
+.contenedor {
+  background-color: khaki;
+  width: 1024px;
+  height: 1000px;
+  margin: auto;
+}
+.caja1 {
+  background-color: lightcoral;
+  width: 350px;
+  height: 200px;
+  margin-left: 200px;
+}
+.caja2 {
+  background-color: lime;
+  width: 180px;
+  height: 220px;
+  margin-top: 120px;
+  margin-right: 50px;
+}
+.caja3 {
+  background-color: navy;
+  width: 650px;
+  height: 130px;
+  margin: auto;
+}

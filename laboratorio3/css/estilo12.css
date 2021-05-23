@@ -1,0 +1,40 @@
+ul {
+  background-color: royalblue;
+  padding: 10px;
+  list-style-type: square;
+  list-style-position: inside;
+}
+ul li {
+  background-color: lightskyblue;
+  margin: 3px;
+}
+ul li ul {
+  background-color: lightslategray;
+  padding: 7px;
+  list-style-type: circle;
+  list-style-position: outside;
+}
+ul li ul li {
+  background-color: lime;
+  margin: 3px;
+}
+ol {
+  background-color: black;
+  padding: 15px;
+  list-style-type: square;
+}
+ol li {
+  background-color: red;
+  margin: 3px;
+}
+ol li ol {
+  background-color: yellow;
+  padding: 7px;
+  list-style-type: circle;
+}
+ol li ol li {
+  background-color: black;
+  color: white;
+  margin: 5px;
+  list-style-type: circle;
+}

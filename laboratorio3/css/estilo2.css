@@ -1,0 +1,38 @@
+body {
+  background-color: silver;
+}
+.contenedor {
+  background-color: black;
+}
+.cabecera {
+  background-color: blue;
+}
+.menu {
+  background-color: brown;
+}
+.cuerpo {
+  background-color: cadetblue;
+}
+.pie {
+  background-color: chartreuse;
+}
+.parrafoimagen {
+  background-image: url("/img/html.jpg");
+}
+.parrafotransparencia {
+  background-color: black;
+  opacity: 75%;
+  color: white;
+}
+.parrafoimagenrepetir {
+  background-image: url("/img/html.jpg");
+}
+.parrafoimagenrepetir {
+  background-image: url("/img/html.jpg");
+  background-repeat: no-repeat;
+}
+.parrafoimagentamaño {
+  background-image: url("/img/html.jpg");
+  background-size: 30px;
+}
+.parraforepetirhorizontal;
